@@ -4,7 +4,7 @@
 <img src= "https://github.com/MariliaMSiqueira/WebGameFlix-CRUD/blob/master/dotnetRUN.gif">
   </p>
   
-&nbsp;&nbsp;Inicialmente, o projeto proposto era elaborar um CRUD de séries, porém, acredito que, alterar a temática, ofereça um desafio maior, então, alinhando ao assunto que eu sou apaixonada, modifiquei para games. O projeto consiste num algoritmo em .NET C# para cadastro de jogos com o intuito de consolidar os conhecimentos adquiridos em orientação a objetos. 
+&nbsp;&nbsp;Inicialmente, o projeto proposto era elaborar um CRUD de séries, porém, acredito que, alterar a temática, ofereça um desafio maior, então, alinhando ao assunto que eu sou apaixonada, modifiquei para games. Com intuito de consolidar os conhecimentos adquiridos em orientação a objetos, o projeto consiste num algoritmo em .NET C# para cadastro de jogos.
 
 --------
 
